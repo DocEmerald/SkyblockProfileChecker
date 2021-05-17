@@ -1,4 +1,5 @@
 #Credit to __Zed (i don't know his Github), Chamos144, and many other members of the Hypixel Forums for originally building the basis of this script, which I expanded on
+#Credit to Aspacesys for bringing it up, and DillPicklezzz for being the reason it was brought up
 from urllib.request import urlopen
 import json
 import requests
