@@ -12,4 +12,4 @@ Download either the .exe or the .py from [the releases page](https:github.com/Do
 
 - ASpacesys for originally asking me to help him and aiding with the process
 - The many forum members here: https://hypixel.net/threads/automatically-obtaining-skyblock-profile-ids-python.2863636/#post-20790377
-- DillPicklezzz for being the reason the entire script was brought up in the first place
+
